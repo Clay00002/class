@@ -1,0 +1,11 @@
+{
+    "name": "phpturial/oop",
+    "description": "learning php oop",
+    "authors": [
+        {
+            "name": "clay chen",
+            "email": "clay@amego.tw"
+        }
+    ],
+    "require": {}
+}
